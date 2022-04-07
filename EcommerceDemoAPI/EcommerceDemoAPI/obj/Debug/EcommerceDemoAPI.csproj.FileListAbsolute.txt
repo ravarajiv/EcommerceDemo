@@ -1,0 +1,14 @@
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\bin\EcommerceDemoAPI.dll.config
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\bin\EcommerceDemoAPI.dll
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\bin\EcommerceDemoAPI.pdb
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\bin\Newtonsoft.Json.dll
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\bin\System.Net.Http.Formatting.dll
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\bin\System.Web.Http.dll
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\bin\System.Web.Http.WebHost.dll
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\bin\Newtonsoft.Json.xml
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\bin\System.Net.Http.Formatting.xml
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\bin\System.Web.Http.xml
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\bin\System.Web.Http.WebHost.xml
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\obj\Debug\EcommerceDemoAPI.csprojResolveAssemblyReference.cache
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\obj\Debug\EcommerceDemoAPI.dll
+F:\rajiv\ContradoPractical\EcommerceDemoAPI\EcommerceDemoAPI\obj\Debug\EcommerceDemoAPI.pdb
